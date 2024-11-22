@@ -15,7 +15,7 @@ SAChecker — это утилита, автоматизирующая прове
 
 ## Установка & использование
 
-1. Скачайте последнюю версию [SAChecker](https://github.com/somearchive/SAChecker/blob/main/SAChecker_kichiro.exe?raw=true).
+1. Скачайте последнюю версию [SAChecker](https://github.com/Sacheck/SAChecker/blob/main/SAChecker_kichiro.exe).
 2. Запустите исполняемый файл `SAChecker.exe`.
 ![screenshot](https://github.com/somearchive/SAChecker/blob/main/pictures/screen_menu.png)
 
